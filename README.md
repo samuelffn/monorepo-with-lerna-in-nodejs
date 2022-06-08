@@ -1,2 +1,2 @@
 #monorepo-with-lerna-in-nodejs  
-Monorepo utilizando o Lerna no NodeJS  
+Projeto Monorepo utilizando o Lerna no NodeJS  

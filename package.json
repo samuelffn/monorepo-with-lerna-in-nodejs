@@ -6,5 +6,8 @@
   "private": true,
   "repository": "git@github.com:samuelffn/monorepo-with-lerna-in-nodejs.git",
   "author": "samuelffn <samuelffn@gmail.com>",
-  "license": "Apache V2"
+  "license": "Apache V2",
+  "devDependencies": {
+    "lerna": "^5.1.1"
+  }
 }

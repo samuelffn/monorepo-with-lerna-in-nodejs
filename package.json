@@ -4,11 +4,6 @@
   "description": "Projeto Monorepo utilizando o Lerna no NodeJS.",
   "main": "index.js",
   "private": true,
-  "workspaces":{
-    "packages": [
-      "packages/*"
-    ]
-  },
   "repository": "git@github.com:samuelffn/monorepo-with-lerna-in-nodejs.git",
   "author": "samuelffn <samuelffn@gmail.com>",
   "license": "Apache V2"
